@@ -1,2 +1,2 @@
 # ADToolsSec
-Don't recode hehe
+This Tools Only For Windows
