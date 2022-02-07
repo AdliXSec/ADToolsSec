@@ -26,7 +26,7 @@ def tampilan():
     print(" #                                                                     #")
     print(" #    Info:                            Note:                           #")
     print(" #    - Only Windows 10                - Don't Copy This Code          #")
-    print(" #    - Use Python3 Not Python2                                        #")
+    print(" #    - Use Python3 Not Python2        - Don't Recode This Tools       #")
     print(" #                                                                     #")
     print(" #                             Indonesian                              #")
     print(" =======================================================================")
