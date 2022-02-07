@@ -22,7 +22,7 @@ def menu():
     print(" | [13] Chek sinyal                    |")
     print(" | [14] YouTube Download mp4           |")
     print(" | [15] Google translate               |")
-    print(" | [16] YouTube Download mp3 (error)   |")
+    print(" | [16] YouTube Download mp3           |")
     print(" | [x] Installing                      |")
     print(" | [0] LogOut :)                       |")
     print(" |                                     |")
@@ -64,7 +64,7 @@ def menu():
     elif pilih == str(15):
         gtrans()
     elif pilih == str(16):
-        error()
+        ytdownmp3()
     elif pilih == "x":
         install()
     elif pilih == str(0):
