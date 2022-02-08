@@ -20,7 +20,7 @@ def tampilan():
     print(" #    / ____ \| |__| |    | | (_) | (_) | \__ \  ____) |  __/ (__      #")
     print(" #   /_/    \_\_____/     |_|\___/ \___/|_|___/ |_____/ \___|\___|     #")
     print(" #   -------------------------------------------------------------     #")
-    print(" #    Author : AdliXSec                                                #")
+    print(" #    Author : AdliXSec                                       v2.0     #")
     print(" #    Team   : Dark Clown Security                                     #")
     print(" #                                                                     #")
     print(" #                                                                     #")
