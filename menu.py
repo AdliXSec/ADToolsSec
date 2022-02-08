@@ -23,6 +23,7 @@ def menu():
     print(" | [14] YouTube Download mp4           |")
     print(" | [15] Google translate               |")
     print(" | [16] YouTube Download mp3           |")
+    print(" | [17] IP GeoLocation                 |")
     print(" | [x] Installing                      |")
     print(" | [0] LogOut :)                       |")
     print(" |                                     |")
@@ -65,6 +66,8 @@ def menu():
         gtrans()
     elif pilih == str(16):
         ytdownmp3()
+    elif pilih == str(17):
+        ipgeo()
     elif pilih == "x":
         install()
     elif pilih == str(0):
