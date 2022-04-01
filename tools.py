@@ -29,7 +29,7 @@ print(" |")
 pass1 = input(" |= Enter Password => ")
 print("")
 
-password = "14be1e61c21c928cace625845384c33f5ad6d3a3"
+password = "25e6ee973cf86bc5cf810bc9aff780df19ae4d79"
 sha = hashlib.sha1()
 sha.update(pass1.encode("utf-8"))
 
